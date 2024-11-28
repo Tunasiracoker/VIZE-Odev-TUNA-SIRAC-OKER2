@@ -1,4 +1,3 @@
-# VIZE-Odev-TUNA-SIRAC-OKER2
 Sinema Müşteri Kayıt SistemiÖdev Metni
 Bu proje, bir sinema yönetim sistemi simülasyonu sağlar. Kullanıcıların salonları, filmleri ve müşterileri yönetmesine olanak tanır. Sistemde salonlar, her salonda oynatılan filmler ve kayıtlı müşteriler yönetilebilir.
 
